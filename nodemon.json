@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW":"liewca2020",
+        "JWT_KEY":"AeroSOFT",
+        "PORT": "8881"
+    }
+}
